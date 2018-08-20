@@ -1,0 +1,10 @@
+.nick, .name {
+    display: inline-block;
+}
+button {
+    color: white!important;
+}
+
+span {
+    color: black!important;
+}

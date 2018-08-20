@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "name": "Piotr Rawski",
+      "username": "Rawa",
+      "id": 1
+    },
+    {
+      "name": "Edward M West",
+      "username": "Eddy",
+      "id": 2
+    },
+    {
+      "name": "Suzanne J Adkins",
+      "username": "Sardis",
+      "id": 3
+    },
+    {
+      "name": "Jan Kowalski",
+      "username": "Kowal",
+      "id": 4
+    },
+    {
+      "name": "Adam Nowak",
+      "username": "Adas",
+      "id": 5
+    },
+    {
+      "name": "Donald C Sherrill",
+      "username": "Circle",
+      "id": 6
+    },
+    {
+      "name": "Tadeusz Majewski",
+      "username": "Maju",
+      "id": 7
+    },
+    {
+      "name": "Lesław Kamiński",
+      "username": "Kamien",
+      "id": 8
+    },
+    {
+      "name": "Halina Duda",
+      "username": "Duda",
+      "id": 9
+    },
+    {
+      "name": "Świętomierz Nowicki",
+      "username": "Swiety",
+      "id": 10
+    },
+    {
+      "name": "Marzena Pawłowska",
+      "username": "Ma",
+      "id": 11
+    },
+    {
+      "name": "Izolda Jaworska",
+      "username": "Tristan",
+      "id": 13
+    }
+  ]
+}
